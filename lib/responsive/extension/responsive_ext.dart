@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutter_screen_adapter/flutter_screen_adapter.dart';
+import 'package:flutter_responsive_adapter/flutter_responsive_adapter.dart';
 
 extension ScreenContextExt on BuildContext {
   ResponsiveScreen getResponsiveScreen(

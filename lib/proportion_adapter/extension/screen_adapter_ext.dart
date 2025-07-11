@@ -1,4 +1,4 @@
-import 'package:flutter_screen_adapter/flutter_screen_adapter.dart';
+import 'package:flutter_responsive_adapter/flutter_responsive_adapter.dart';
 
 extension ScreenAdapterExtension on num {
   /// 适配 dp
