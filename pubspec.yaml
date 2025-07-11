@@ -41,9 +41,6 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  lib_screen_adapter:
-    path: lib_screen_adapter
-
   device_preview_plus: ^2.0.0
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is

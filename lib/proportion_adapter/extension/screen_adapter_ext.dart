@@ -1,4 +1,4 @@
-import 'package:lib_screen_adapter/proportion_adapter/proportion_adapter.dart';
+import 'package:flutter_screen_adapter/flutter_screen_adapter.dart';
 
 extension ScreenAdapterExtension on num {
   /// 适配 dp
